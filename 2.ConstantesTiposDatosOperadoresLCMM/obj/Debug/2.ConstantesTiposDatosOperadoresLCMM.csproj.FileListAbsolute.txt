@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\bin\Debug\2.ConstantesTiposDatosOperadoresLCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\bin\Debug\2.ConstantesTiposDatosOperadoresLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\bin\Debug\2.ConstantesTiposDatosOperadoresLCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\obj\Debug\2.ConstantesTiposDatosOperadoresLCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\obj\Debug\2.ConstantesTiposDatosOperadoresLCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\obj\Debug\2.ConstantesTiposDatosOperadoresLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\2.ConstantesTiposDatosOperadoresLCMM\2.ConstantesTiposDatosOperadoresLCMM\obj\Debug\2.ConstantesTiposDatosOperadoresLCMM.pdb
