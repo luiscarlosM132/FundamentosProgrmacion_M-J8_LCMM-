@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\bin\Debug\CUATRO._CondicionalSimpleDoble.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\bin\Debug\CUATRO._CondicionalSimpleDoble.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\bin\Debug\CUATRO._CondicionalSimpleDoble.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\obj\Debug\CUATRO._CondicionalSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\obj\Debug\CUATRO._CondicionalSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\obj\Debug\CUATRO._CondicionalSimpleDoble.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\CUATRO._CondicionalSimpleDoble\CUATRO._CondicionalSimpleDoble\obj\Debug\CUATRO._CondicionalSimpleDoble.pdb
