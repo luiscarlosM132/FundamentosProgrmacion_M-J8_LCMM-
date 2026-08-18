@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\bin\Debug\T.Preparacion,CondicionesPruebaLCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\bin\Debug\T.Preparacion,CondicionesPruebaLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\bin\Debug\T.Preparacion,CondicionesPruebaLCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\obj\Debug\T.Preparacion,CondicionesPruebaLCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\obj\Debug\T.Preparacion,CondicionesPruebaLCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\obj\Debug\T.Preparacion,CondicionesPruebaLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\T.Preparacion,CondicionesPruebaLCMM\T.Preparacion,CondicionesPruebaLCMM\obj\Debug\T.Preparacion,CondicionesPruebaLCMM.pdb
