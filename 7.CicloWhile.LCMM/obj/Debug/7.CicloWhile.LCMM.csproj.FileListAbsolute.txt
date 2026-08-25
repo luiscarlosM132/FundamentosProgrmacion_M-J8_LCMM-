@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\bin\Debug\7.CicloWhile.LCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\bin\Debug\7.CicloWhile.LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\bin\Debug\7.CicloWhile.LCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\obj\Debug\7.CicloWhile.LCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\obj\Debug\7.CicloWhile.LCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\obj\Debug\7.CicloWhile.LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\7.CicloWhile.LCMM\7.CicloWhile.LCMM\obj\Debug\7.CicloWhile.LCMM.pdb
