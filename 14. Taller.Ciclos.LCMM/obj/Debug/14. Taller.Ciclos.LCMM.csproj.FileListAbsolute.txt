@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\bin\Debug\_14.Taller.Ciclos.LCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\bin\Debug\_14.Taller.Ciclos.LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\bin\Debug\_14.Taller.Ciclos.LCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\obj\Debug\14. Taller.Ciclos.LCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\obj\Debug\14. Taller.Ciclos.LCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\obj\Debug\_14.Taller.Ciclos.LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\14. Taller.Ciclos.LCMM\obj\Debug\_14.Taller.Ciclos.LCMM.pdb
