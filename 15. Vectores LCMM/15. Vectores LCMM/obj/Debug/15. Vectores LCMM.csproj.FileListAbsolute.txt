@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\bin\Debug\_15.Vectores_LCMM.exe.config
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\bin\Debug\_15.Vectores_LCMM.exe
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\bin\Debug\_15.Vectores_LCMM.pdb
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\obj\Debug\15. Vectores LCMM.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\obj\Debug\15. Vectores LCMM.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\obj\Debug\_15.Vectores_LCMM.exe
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\15. Vectores LCMM\15. Vectores LCMM\obj\Debug\_15.Vectores_LCMM.pdb
