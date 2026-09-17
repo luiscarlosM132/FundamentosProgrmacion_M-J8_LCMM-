@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\obj\Debug\TALLERvectorLCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\obj\Debug\TALLERvectorLCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\bin\Debug\TALLERvectorLCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\bin\Debug\TALLERvectorLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\bin\Debug\TALLERvectorLCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\obj\Debug\TALLERvectorLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\TALLERvectorLCMM\obj\Debug\TALLERvectorLCMM.pdb
