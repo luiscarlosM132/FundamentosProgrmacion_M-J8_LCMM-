@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\bin\Debug\16.ArregloBidimensional-MatricesLCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\bin\Debug\16.ArregloBidimensional-MatricesLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\bin\Debug\16.ArregloBidimensional-MatricesLCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\obj\Debug\16.ArregloBidimensional-MatricesLCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\obj\Debug\16.ArregloBidimensional-MatricesLCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\obj\Debug\16.ArregloBidimensional-MatricesLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\16.ArregloBidimensional-MatricesLCMM\obj\Debug\16.ArregloBidimensional-MatricesLCMM.pdb
