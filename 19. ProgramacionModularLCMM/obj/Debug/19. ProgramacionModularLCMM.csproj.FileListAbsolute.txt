@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\bin\Debug\_19.ProgramacionModularLCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\bin\Debug\_19.ProgramacionModularLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\bin\Debug\_19.ProgramacionModularLCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\obj\Debug\19. ProgramacionModularLCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\obj\Debug\19. ProgramacionModularLCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\obj\Debug\_19.ProgramacionModularLCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\19. ProgramacionModularLCMM\obj\Debug\_19.ProgramacionModularLCMM.pdb
