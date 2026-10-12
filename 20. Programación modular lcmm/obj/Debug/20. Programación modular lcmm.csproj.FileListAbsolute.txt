@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\bin\Debug\_20.Programación_modular_lcmm.exe.config
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\bin\Debug\_20.Programación_modular_lcmm.exe
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\bin\Debug\_20.Programación_modular_lcmm.pdb
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\obj\Debug\20. Programación modular lcmm.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\obj\Debug\20. Programación modular lcmm.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\obj\Debug\_20.Programación_modular_lcmm.exe
+C:\Users\luisc\source\repos\COSAS DE VISUAL LCMM\20. Programación modular lcmm\20. Programación modular lcmm\obj\Debug\_20.Programación_modular_lcmm.pdb
