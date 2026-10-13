@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\bin\Debug\_21.Taller_Programación_Modular_LCMM.exe.config
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\bin\Debug\_21.Taller_Programación_Modular_LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\bin\Debug\_21.Taller_Programación_Modular_LCMM.pdb
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\obj\Debug\21. Taller Programación Modular LCMM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\obj\Debug\21. Taller Programación Modular LCMM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\obj\Debug\_21.Taller_Programación_Modular_LCMM.exe
+C:\Users\B09S104est\Downloads\LCMM.EXE_FUNDADePROGRAMA\FundamentosProgrmacion_M-J8_LCMM-\21. Taller Programación Modular LCMM\obj\Debug\_21.Taller_Programación_Modular_LCMM.pdb
